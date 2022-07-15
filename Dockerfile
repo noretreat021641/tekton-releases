@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.28.0
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.37.2
 MAINTAINER polarwu <185581098@qq.com>
